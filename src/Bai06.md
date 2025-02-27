@@ -16,6 +16,7 @@ JVM (Java Virtual Machine)
 Đặc điểm: Là thành phần cốt lõi giúp đạt được tính di động của Java (xem phần “Write once, run anywhere”).
 
 Mối quan hệ: JDK chứa JRE, và JRE lại bao gồm JVM. Khi bạn phát triển ứng dụng Java, bạn cần JDK; khi chạy ứng dụng, máy tính cần có JRE (và do đó là JVM).
+
 2. Khái niệm "Write once, run anywhere" và cơ chế đa nền tảng của Java
    Ý nghĩa:
 
@@ -25,6 +26,7 @@ Cơ chế hỗ trợ:
 Khi biên dịch, mã nguồn Java được chuyển thành bytecode – một dạng mã trung gian không phụ thuộc vào nền tảng.
 JVM sẽ giải thích (hoặc biên dịch tại thời điểm chạy bằng JIT – Just-In-Time Compiler) bytecode đó thành mã máy phù hợp với hệ điều hành và phần cứng đang chạy.
 Nhờ có lớp trừu tượng của JVM, sự khác biệt về kiến trúc phần cứng và hệ điều hành được ẩn đi, cho phép cùng một bytecode chạy được trên nhiều nền tảng khác nhau.
+
 3. Quy trình cài đặt và chạy chương trình Java đầu tiên bằng IntelliJ IDEA
    Cài đặt môi trường:
 
@@ -61,6 +63,7 @@ Kết quả sẽ hiển thị trong cửa sổ Run với thông điệp "Hello, 
 Kiểm tra và gỡ lỗi:
 
 Sử dụng tính năng Debug (nhấn Shift + F9 trên Windows/Linux hoặc ⌥ + F9 trên Mac) nếu cần gỡ lỗi chương trình.
+
 4. Các phiên bản Java: Java SE, Java EE và Java ME
    Java SE (Standard Edition):
 
