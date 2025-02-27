@@ -1,8 +1,3 @@
-1. JDK, JRE và JVM có vai trò gì trong hệ sinh thái Java? Hãy phân biệt sự khác nhau giữa ba khái niệm này và nêu mối quan hệ giữa chúng
-2. Hãy giải thích khái niệm "Write once, run anywhere" trong Java. Cơ chế nào giúp Java có thể chạy trên nhiều nền tảng khác nhau mà không cần biên dịch lại?
-3. Quy trình để cài đặt và chạy chương trình Java đầu tiên bằng IntelliJ IDEA như thế nào? Hãy mô tả các bước cần thực hiện để tạo và chạy một dự án Java cơ bản.
-4. Java có những phiên bản nào? Hãy phân biệt Java SE, Java EE và Java ME về mục đích sử dụng và đối tượng hướng đến
-
 
 1. Vai trò và mối quan hệ giữa JDK, JRE và JVM
    JDK (Java Development Kit)
